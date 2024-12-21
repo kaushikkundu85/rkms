@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://laraadmin.com/img/laraadmin-256.png">
-  <h1 align="center" style="margin-top:5px;">LaraAdmin 1.1</h1>
+  <h1 align="center" style="margin-top:5px;">Ramkrishna Mission Laravel</h1>
 </p>
 
 [![Build Status](https://travis-ci.org/dwijitsolutions/laraadmin.svg?branch=master)](https://travis-ci.org/dwijitsolutions/laraadmin)
